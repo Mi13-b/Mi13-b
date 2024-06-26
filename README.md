@@ -1,4 +1,11 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+ Meu nome é Milena
+
+
+
+
+   Estou estudando na Alura, estou me desenvolvendo na linguagem JavaScript e utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
 
 <!--
 **Mi13-b/Mi13-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
